@@ -1,0 +1,1 @@
+To run this make sure you have all libraries installed. Then run app.py and open terminal on side to observe runtime
